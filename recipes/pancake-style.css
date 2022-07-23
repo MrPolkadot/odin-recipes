@@ -1,0 +1,13 @@
+* {
+    font-family: Helvetica, sans-serif;
+}
+
+h1 {
+   background-color: rgb(110, 193, 226);
+   color: white; 
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
